@@ -9133,9 +9133,11 @@ textarea.form-control {
   .ftco-footer .ftco-footer-widget h2 {
     font-weight: normal;
     color: #fff;
-    margin-bottom: 40px;
+    margin-bottom: 10px;
     font-size: 22px;
-    font-weight: 600; }
+    font-weight: 600; 
+    padding: 16px 0;
+  }
   .ftco-footer .ftco-footer-widget ul li {
     margin-bottom: 10px; }
     .ftco-footer .ftco-footer-widget ul li a {
@@ -9417,6 +9419,10 @@ textarea.form-control {
 
 .contact-section .contact-info p a {
   color: #1a1a1a; }
+
+  .contact-info{
+    justify-content: center;
+  }
 
 .contact-section .box {
   width: 100%;
