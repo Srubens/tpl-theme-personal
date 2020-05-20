@@ -2,16 +2,16 @@
 
 <section class="hero-wrap js-fullheight">
   <div class="overlay"></div>
-  <div class="container">
+  <div class="container-fluid">
     <div class="row no-gutters slider-text js-fullheight justify-content-center align-items-center">
       <div class="col-lg-8 col-md-6 col-12 ftco-animate d-flex align-items-center">
       	<div class="text text-center main_header">
       		<span class="subheading">Olá! Me chamo</span>
 			<h1>Pedro Santana</h1>
 			<h2>Eu sou
-				  <span class="span_header_color">Gerente de Projetos, </span>
-				  <span class="span_header" >Scrum Master, </span>
-				  <span class="span_header" >Educador </span>
+				  <span class="span_header_color">Gerente de Projetos, Scrum Master, Educador.</span>
+				  <!-- <span class="span_header" >Scrum Master, </span>
+				  <span class="span_header" >Educador </span> -->
 			</h2>
 		</div>
         </div>
