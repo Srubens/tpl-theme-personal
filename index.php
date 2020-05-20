@@ -11,7 +11,7 @@
 			<h2>Eu sou
 				  <span class="span_header_color">Gerente de Projetos, </span>
 				  <span class="span_header" >Scrum Master, </span>
-				  <span class="span_header" >Educador, </span>
+				  <span class="span_header" >Educador </span>
 			</h2>
 		</div>
         </div>
