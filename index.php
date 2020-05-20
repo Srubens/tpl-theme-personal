@@ -8,7 +8,7 @@
       	<div class="text text-center main_header">
       		<span class="subheading">Olá! Me chamo</span>
 			<h1>Pedro Santana</h1>
-				<h2>Eu sou
+			<h2>Eu sou
 				  <span class="span_header_color">Gerente de Projetos, </span>
 				  <span class="span_header" >Scrum Master, </span>
 				  <span class="span_header" >Educador, </span>
